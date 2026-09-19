@@ -9,7 +9,7 @@ Exploratory data analysis of IPL (Indian Premier League) match and ball-by-ball 
 │   └── deliveries.csv     # Ball-by-ball data (runs, wickets, extras)
 ├── notebooks/
 │   └── ipl_analysis.ipynb # Main analysis notebook
-├── app.py                 # (Optional, in progress) Streamlit dashboard
+├── app.py                
 └── README.md
 ```
 
